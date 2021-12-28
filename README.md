@@ -1,2 +1,1 @@
-# master
-Coursera web developers
+Coursera test repository
